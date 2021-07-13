@@ -1,1 +1,2 @@
-# oemconfig-s2d-v2
+# oemconfig-s2d
+Holds OEMConfig APKs and restrictions JSON
